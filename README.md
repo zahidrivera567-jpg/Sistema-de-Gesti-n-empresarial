@@ -5,15 +5,15 @@ Este proyecto consiste en el desarrollo de un sistema de gestión para una libre
 
 Funcionalidades principales
 
-Registro, modificación y eliminación de libros.
+-Registro, modificación y eliminación de libros.
 
-Gestión de clientes y proveedores.
+-Gestión de clientes y proveedores.
 
-Control de ventas y generación de reportes.
+-Control de ventas y generación de reportes.
 
-Búsqueda y filtrado de libros por diferentes criterios.
+-Búsqueda y filtrado de libros por diferentes criterios.
 
-Conexión a base de datos para almacenamiento persistente.
+-Conexión a base de datos para almacenamiento persistente.
 
 Estado del proyecto
 
