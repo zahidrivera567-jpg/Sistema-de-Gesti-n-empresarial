@@ -1,9 +1,9 @@
-Sistema de Gestión de Librería
-Descripción
+**Sistema de Gestión de Librería
+Descripción**
 
 Este proyecto consiste en el desarrollo de un sistema de gestión para una librería. Su objetivo es facilitar el control de inventario, ventas, clientes y proveedores mediante una aplicación con interfaz amigable y conexión a base de datos.
 
-Funcionalidades principales
+**Funcionalidades principales**
 
 -Registro, modificación y eliminación de libros.
 
@@ -15,10 +15,10 @@ Funcionalidades principales
 
 -Conexión a base de datos para almacenamiento persistente.
 
-Estado del proyecto
+**Estado del proyecto**
 
 Versión inicial (borrador). Algunas funciones pueden no estar implementadas completamente.
 
-Autores
+**Autores**
 
 Mathias Rivera, Santiago Vallejo, Omar Pacheco
